@@ -16,12 +16,12 @@ Target/Observed Locations or Areas;
 SAR VH Filltered Image for Los Angles;
 ![SAR VH Filtered Applied](https://github.com/SohelRana-aiub-Pro/Google-Earth-Engine-Research-Project/assets/133596903/d31e82b8-53e7-4e26-adb3-ff60b8fc6750)
 
-Optical Image Los Angles Areas
+Optical Image for Los Angles Areas;
 
 ![optical image](https://github.com/SohelRana-aiub-Pro/Google-Earth-Engine-Research-Project/assets/133596903/5c105632-2dfe-4010-ac46-2301e3d79fba)
 
 
-Machine Learning Predicted outputs or Results; More than 97% Accuracy 
+Machine Learning Models Predicted outputs or Results; More than 97% Accuracy.
 
 -> Predicated Ouput based on the SAR Data;
 
